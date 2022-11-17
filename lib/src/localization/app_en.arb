@@ -1,0 +1,6 @@
+{
+  "appTitle": "AllDocsArchive Admin",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
